@@ -1,0 +1,2 @@
+module COSC2006 {
+}
